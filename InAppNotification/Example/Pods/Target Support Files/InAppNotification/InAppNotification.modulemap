@@ -1,0 +1,6 @@
+framework module InAppNotification {
+  umbrella header "InAppNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

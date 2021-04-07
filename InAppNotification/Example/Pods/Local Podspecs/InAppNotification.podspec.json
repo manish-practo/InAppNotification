@@ -1,0 +1,23 @@
+{
+  "name": "InAppNotification",
+  "version": "0.1.0",
+  "summary": "A short description of InAppNotification.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/manish-practo/InAppNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "manish-practo": "manish.pandey@practo.com"
+  },
+  "source": {
+    "git": "https://github.com/manish-practo/InAppNotification.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "InAppNotification/Classes/**/*",
+  "frameworks": "UIKit"
+}

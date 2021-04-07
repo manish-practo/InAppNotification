@@ -1,0 +1,16 @@
+PODS:
+  - InAppNotification (0.1.0)
+
+DEPENDENCIES:
+  - InAppNotification (from `../`)
+
+EXTERNAL SOURCES:
+  InAppNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InAppNotification: d32761b5d1eb3b6dfeb13c9ed872d0a29299fd4d
+
+PODFILE CHECKSUM: a2986db2f06883cb43c94b004e101c78432e0cb6
+
+COCOAPODS: 1.10.1

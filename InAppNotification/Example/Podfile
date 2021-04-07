@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'InAppNotification_Example' do
+  pod 'InAppNotification', :path => '../'
+
+  target 'InAppNotification_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
